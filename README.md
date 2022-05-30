@@ -16,6 +16,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
 
 ## 😎 Social Links
-<a href="www.linkedin.com/in/kauah" target="_blank">
+<a href="www.linkedin.com/in/kaua-h" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-kauah-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
