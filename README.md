@@ -17,4 +17,8 @@
 
 ## 😎 Social Links
 
-[Linkedin](https://www.linkedin.com/in/kaua-h/)
+<p>
+  <a href="https://www.linkedin.com/in/kaua-h/" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-kauah-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+</p>
