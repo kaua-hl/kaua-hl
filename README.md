@@ -14,11 +14,3 @@
 ![Vue](https://img.shields.io/badge/-Vue-05122A?style=flat&logo=vuedotjs)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-
-## 😎 Social Links
-
-<p>
-  <a href="https://www.linkedin.com/in/kaua-h/" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/-kauah-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-  </a>
-</p>
